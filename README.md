@@ -42,7 +42,7 @@ Open your web browser and navigate to `http://localhost:3000` to view the produc
 
 The project follows a standard folder structure:
 
-      text
+```text
 products-page/
 ├── src/
 │ ├── components/
@@ -61,4 +61,4 @@ products-page/
 ├── public/
 ├── package.json
 └── README.md
-    
+```
