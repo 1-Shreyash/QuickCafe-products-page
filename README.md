@@ -46,6 +46,7 @@ Open your web browser and navigate to `http://localhost:3000` to view the produc
 
 - React
 - CSS Framework (Tailwind)
+- Context API (to pass data to cart pop up menu)
 
 ## Folder Structure
 
