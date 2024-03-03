@@ -24,11 +24,20 @@ In addition to the main requirements, the project includes bonus features:
 
 To get started with the project, follow these instructions:
 
-1. **Clone the Repository**: 
-
+1. **Clone the Repository**:
+```text
+git clone https://github.com/your-username/products-page.git
+```
 2. **Install Dependencies**:
+```text
+cd products-page
+npm install
+```
 
 3. **Run the Application**:
+```text
+npm start
+```
 
 4. **View the Application**:
 Open your web browser and navigate to `http://localhost:3000` to view the products page.
@@ -36,7 +45,7 @@ Open your web browser and navigate to `http://localhost:3000` to view the produc
 ## Technologies Used
 
 - React
-- CSS Framework (Bootstrap/Tailwind)
+- CSS Framework (Tailwind)
 
 ## Folder Structure
 
